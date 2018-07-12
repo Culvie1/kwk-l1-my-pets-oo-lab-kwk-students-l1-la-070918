@@ -1,5 +1,6 @@
 class Cat
-attr_accessor  
+attr_accessor :purchase, :name, :mood 
+
   
   
   
