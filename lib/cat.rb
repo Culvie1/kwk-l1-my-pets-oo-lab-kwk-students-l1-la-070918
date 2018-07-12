@@ -10,8 +10,8 @@ end
 cat_one = Cat.new("Shelter", "Chester", "Happy")
   
 puts cat_one.purchase
-puts 
-puts 
+puts cat_one.name
+puts cat_one.mood
   
   
    # code goes here
