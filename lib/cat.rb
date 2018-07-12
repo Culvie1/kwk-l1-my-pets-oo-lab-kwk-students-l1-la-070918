@@ -12,4 +12,4 @@ cat_one = Cat.new("Shelter", "Chester", "Happy")
 puts cat_one.purchase
 puts cat_one.name
 puts cat_one.mood
-  end
+
