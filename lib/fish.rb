@@ -12,4 +12,3 @@ fish_one = Fish.new("Pet Store", "California Roll", "Content")
 puts fish_one.purchase
 puts fish_one.name
 puts fish_one.mood
-end
