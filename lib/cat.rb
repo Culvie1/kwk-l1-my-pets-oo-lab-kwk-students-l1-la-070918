@@ -13,6 +13,5 @@ puts cat_one.purchase
 puts cat_one.name
 puts cat_one.mood
   
-  
    # code goes here
 end
