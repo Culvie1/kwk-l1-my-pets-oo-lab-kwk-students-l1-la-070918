@@ -9,7 +9,7 @@ end
   
 cat_one = Cat.new("Shelter", "Chester", "Happy")
   
-puts 
+puts cat_one.purchase
 puts 
 puts 
   
