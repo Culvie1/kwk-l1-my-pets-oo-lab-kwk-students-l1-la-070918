@@ -7,7 +7,7 @@ def initialize(purchase, name, mood)
 end
 end
   
-cat_one = Cat.new("Shelter", "Chester", "")
+cat_one = Cat.new("Shelter", "Chester", "Happy")
   
   
   
