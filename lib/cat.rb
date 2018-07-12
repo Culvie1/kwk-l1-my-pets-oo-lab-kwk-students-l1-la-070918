@@ -4,7 +4,8 @@ def initialize(purchase, name, mood)
   @purchase = purchase
   @name = name
   @mood = mood
-  
+end
+end
   
   
   
