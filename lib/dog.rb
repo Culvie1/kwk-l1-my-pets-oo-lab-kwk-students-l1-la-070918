@@ -12,4 +12,3 @@ end
 puts dog_one.purchase
 puts dog_one.name
 puts dog_one.mood
-end
