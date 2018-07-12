@@ -1,6 +1,6 @@
 class Cat
 attr_accessor :purchase, :name, :mood 
-def initialize 
+def initialize(purchase, name, mood)
   
   
   
