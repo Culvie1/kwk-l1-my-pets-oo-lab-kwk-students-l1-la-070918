@@ -1,6 +1,9 @@
 class Cat
 attr_accessor :purchase, :name, :mood 
 def initialize(purchase, name, mood)
+  @purchase = purchase
+  @name = name
+  @mood = mood
   
   
   
@@ -11,8 +14,5 @@ def initialize(purchase, name, mood)
   
   
   
-  
-  
-  
-  # code goes here
+   # code goes here
 end
