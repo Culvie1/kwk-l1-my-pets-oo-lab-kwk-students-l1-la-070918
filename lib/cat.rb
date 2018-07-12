@@ -9,10 +9,9 @@ end
   
 cat_one = Cat.new("Shelter", "Chester", "Happy")
   
-  
-  
-  
-  
+puts 
+puts 
+puts 
   
   
    # code goes here
